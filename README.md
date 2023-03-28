@@ -160,8 +160,7 @@ void Error_Handler(void)
 ```
 ## Output  :
 ![WhatsApp Image 2023-03-28 at 9 06 47 PM](https://user-images.githubusercontent.com/93427594/228293373-a7ac024f-c0bb-497f-af76-06faadf92e8b.jpeg)
-![WhatsApp Image 2023-03-28 at 9 06 47 PM](https://user-images.githubusercontent.com/93427594/228293454-a967fa3f-aff4-449a-8f12-92e21c0954f9.jpeg)
-
+![WhatsApp Image 2023-03-28 at 9 06 47 PM (1)](https://user-images.githubusercontent.com/93427594/228293896-cd5a88ec-b602-4d5b-925b-91182dcbab2e.jpeg)
  
  
  
